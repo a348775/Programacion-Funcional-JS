@@ -1,0 +1,724 @@
+[
+    {
+        "id": 1,
+        "precio": 18.5,
+        "descripcion": "limpiador líquido",
+        "clasificacion": "limpieza",
+        "existencia": 30,
+        "min": 10,
+        "max": 40
+    },
+    {
+        "id": 2,
+        "precio": 16.2,
+        "descripcion": "esponja de baño",
+        "clasificacion": "limpieza",
+        "existencia": 10,
+        "min": 5,
+        "max": 50
+    },
+    {
+        "id": 3,
+        "precio": 22.7,
+        "descripcion": "acondicionador",
+        "clasificacion": "limpieza",
+        "existencia": 15,
+        "min": 5,
+        "max": 100
+    },
+    {
+        "id": 4,
+        "precio": 19.8,
+        "descripcion": "pera",
+        "clasificacion": "fruta",
+        "existencia": 67,
+        "min": 30,
+        "max": 150
+    },
+    {
+        "id": 5,
+        "precio": 33.5,
+        "descripcion": "espinacas",
+        "clasificacion": "verdura",
+        "existencia": 480,
+        "min": 400,
+        "max": 500
+    },
+    {
+        "id": 6,
+        "precio": 22.1,
+        "descripcion": "melocotón",
+        "clasificacion": "fruta",
+        "existencia": 78,
+        "min": 50,
+        "max": 500
+    },
+{
+        "id": 7,
+        "precio": 22.5,
+        "descripcion": "cepillo",
+        "clasificacion": "limpieza",
+        "existencia": 35,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 8,
+        "precio": 18,
+        "descripcion": "papel higiénico",
+        "clasificacion": "limpieza",
+        "existencia": 20,
+        "min": 5,
+        "max": 100
+    },
+    {
+        "id": 9,
+        "precio": 16.7,
+        "descripcion": "pera",
+        "clasificacion": "fruta",
+        "existencia": 65,
+        "min": 30,
+        "max": 150
+    },
+    {
+        "id": 10,
+        "precio": 30.2,
+        "descripcion": "zanahoria",
+        "clasificacion": "verdura",
+        "existencia": 300,
+        "min": 200,
+        "max": 500
+    },
+    {
+        "id": 11,
+        "precio": 25,
+        "descripcion": "limpiador multiusos",
+        "clasificacion": "limpieza",
+        "existencia": 15,
+        "min": 5,
+        "max": 50
+    },
+    {
+        "id": 12,
+        "precio": 18.5,
+        "descripcion": "sandía",
+        "clasificacion": "fruta",
+        "existencia": 8,
+        "min": 30,
+        "max": 100
+    },
+    {
+        "id": 13,
+        "precio": 28,
+        "descripcion": "esponja",
+        "clasificacion": "limpieza",
+        "existencia": 60,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 14,
+        "precio": 32.7,
+        "descripcion": "brócoli",
+        "clasificacion": "verdura",
+        "existencia": 200,
+        "min": 150,
+        "max": 300
+    },
+    {
+        "id": 15,
+        "precio": 23,
+        "descripcion": "jugo de naranja",
+        "clasificacion": "bebida",
+        "existencia": 100,
+        "min": 50,
+        "max": 200
+    },
+    {
+        "id": 16,
+        "precio": 15.8,
+        "descripcion": "pan integral",
+        "clasificacion": "panadería",
+        "existencia": 80,
+        "min": 50,
+        "max": 150
+    },
+    {
+        "id": 17,
+        "precio": 26.5,
+        "descripcion": "lechuga",
+        "clasificacion": "verdura",
+        "existencia": 150,
+        "min": 100,
+        "max": 200
+    },
+    {
+        "id": 18,
+        "precio": 21.2,
+        "descripcion": "pescado",
+        "clasificacion": "mariscos",
+        "existencia": 4,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 19,
+        "precio": 19.5,
+        "descripcion": "yogur natural",
+        "clasificacion": "lácteos",
+        "existencia": 60,
+        "min": 30,
+        "max": 100
+    },
+    {
+        "id": 20,
+        "precio": 17.3,
+        "descripcion": "pañuelos de papel",
+        "clasificacion": "papel",
+        "existencia": 40,
+        "min": 10,
+        "max": 80
+    },
+    {
+        "id": 21,
+        "precio": 24.8,
+        "descripcion": "pollo",
+        "clasificacion": "aves",
+        "existencia": 25,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 22,
+        "precio": 14.6,
+        "descripcion": "papel aluminio",
+        "clasificacion": "papel",
+        "existencia": 70,
+        "min": 30,
+        "max": 100
+    },
+    {
+        "id": 23,
+        "precio": 22,
+        "descripcion": "huevos",
+        "clasificacion": "huevos",
+        "existencia": 50,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 24,
+        "precio": 18.2,
+        "descripcion": "fresas",
+        "clasificacion": "fruta",
+        "existencia": 40,
+        "min": 20,
+        "max": 100
+    },
+    {
+        "id": 25,
+        "precio": 28.6,
+        "descripcion": "filete de res",
+        "clasificacion": "carnes",
+        "existencia": 15,
+        "min": 5,
+        "max": 30
+    },
+    {
+        "id": 26,
+        "precio": 16.9,
+        "descripcion": "pasta",
+        "clasificacion": "pasta",
+        "existencia": 50,
+        "min": 20,
+        "max": 100
+    },
+    {
+        "id": 27,
+        "precio": 23.4,
+        "descripcion": "champiñones",
+        "clasificacion": "hongos",
+        "existencia": 9,
+        "min": 10,
+        "max": 60
+    },
+    {
+        "id": 28,
+        "precio": 21.9,
+        "descripcion": "tomate",
+        "clasificacion": "verdura",
+        "existencia": 120,
+        "min": 80,
+        "max": 200
+    },
+    {
+        "id": 29,
+        "precio": 19.7,
+        "descripcion": "pan blanco",
+        "clasificacion": "panadería",
+        "existencia": 60,
+        "min": 30,
+        "max": 100
+    },
+    {
+        "id": 30,
+        "precio": 27.5,
+        "descripcion": "salmón",
+        "clasificacion": "pescado",
+        "existencia": 20,
+        "min": 10,
+        "max": 40
+    },
+    {
+        "id": 31,
+        "precio": 14.2,
+        "descripcion": "jabón líquido",
+        "clasificacion": "limpieza",
+        "existencia": 30,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 32,
+        "precio": 26,
+        "descripcion": "maní",
+        "clasificacion": "frutos secos",
+        "existencia": 40,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 33,
+        "precio": 18.8,
+        "descripcion": "limón",
+        "clasificacion": "fruta",
+        "existencia": 80,
+        "min": 40,
+        "max": 150
+    },
+    {
+        "id": 34,
+        "precio": 24.3,
+        "descripcion": "papaya",
+        "clasificacion": "fruta",
+        "existencia": 55,
+        "min": 30,
+        "max": 100
+    },
+    {
+        "id": 35,
+        "precio": 15.5,
+        "descripcion": "queso cheddar",
+        "clasificacion": "lácteos",
+        "existencia": 40,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 36,
+        "precio": 22.7,
+        "descripcion": "uvas",
+        "clasificacion": "fruta",
+        "existencia": 65,
+        "min": 30,
+        "max": 150
+    },
+    {
+        "id": 37,
+        "precio": 28.9,
+        "descripcion": "aceite de oliva",
+        "clasificacion": "aceites",
+        "existencia": 25,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 38,
+        "precio": 21.4,
+        "descripcion": "agua embotellada",
+        "clasificacion": "bebida",
+        "existencia": 70,
+        "min": 30,
+        "max": 100
+    },
+    {
+        "id": 39,
+        "precio": 19.6,
+        "descripcion": "pimienta negra",
+        "clasificacion": "especias",
+        "existencia": 15,
+        "min": 5,
+        "max": 30
+    },
+    {
+        "id": 40,
+        "precio": 25.2,
+        "descripcion": "mantequilla",
+        "clasificacion": "lácteos",
+        "existencia": 55,
+        "min": 30,
+        "max": 80
+    },
+    {
+        "id": 41,
+        "precio": 17.8,
+        "descripcion": "pan de ajo",
+        "clasificacion": "panadería",
+        "existencia": 40,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 42,
+        "precio": 29.3,
+        "descripcion": "sopa enlatada",
+        "clasificacion": "conservas",
+        "existencia": 20,
+        "min": 10,
+        "max": 40
+    },
+    {
+        "id": 43,
+        "precio": 16.4,
+        "descripcion": "miel",
+        "clasificacion": "endulzantes",
+        "existencia": 35,
+        "min": 10,
+        "max": 60
+    },
+    {
+        "id": 44,
+        "precio": 23.8,
+        "descripcion": "mostaza",
+        "clasificacion": "condimentos",
+        "existencia": 30,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 45,
+        "precio": 27.1,
+        "descripcion": "aceitunas",
+        "clasificacion": "aceitunas",
+        "existencia": 25,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 46,
+        "precio": 18.9,
+        "descripcion": "atún enlatado",
+        "clasificacion": "conservas",
+        "existencia": 30,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 47,
+        "precio": 21.5,
+        "descripcion": "crema de cacahuate",
+        "clasificacion": "frutos secos",
+        "existencia": 25,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 48,
+        "precio": 25.7,
+        "descripcion": "pimientos",
+        "clasificacion": "verdura",
+        "existencia": 50,
+        "min": 30,
+        "max": 80
+    },
+    {
+        "id": 49,
+        "precio": 24.5,
+        "descripcion": "chocolate negro",
+        "clasificacion": "dulces",
+        "existencia": 40,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 50,
+        "precio": 19.8,
+        "descripcion": "cebolla",
+        "clasificacion": "verdura",
+        "existencia": 60,
+        "min": 30,
+        "max": 100
+    },
+    {
+        "id": 51,
+        "precio": 28.3,
+        "descripcion": "yogur de fresa",
+        "clasificacion": "lácteos",
+        "existencia": 35,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 52,
+        "precio": 16.5,
+        "descripcion": "cereal de avena",
+        "clasificacion": "cereales",
+        "existencia": 40,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 53,
+        "precio": 21.9,
+        "descripcion": "pan de centeno",
+        "clasificacion": "panadería",
+        "existencia": 30,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 54,
+        "precio": 25.6,
+        "descripcion": "salmonete",
+        "clasificacion": "pescado",
+        "existencia": 15,
+        "min": 5,
+        "max": 30
+    },
+    {
+        "id": 55,
+        "precio": 17.7,
+        "descripcion": "canela molida",
+        "clasificacion": "especias",
+        "existencia": 25,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 56,
+        "precio": 23.4,
+        "descripcion": "café molido",
+        "clasificacion": "café",
+        "existencia": 50,
+        "min": 30,
+        "max": 80
+    },
+    {
+        "id": 57,
+        "precio": 20.2,
+        "descripcion": "agua de coco",
+        "clasificacion": "bebida",
+        "existencia": 40,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 58,
+        "precio": 26.1,
+        "descripcion": "salsa de tomate",
+        "clasificacion": "salsas",
+        "existencia": 30,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 59,
+        "precio": 18.6,
+        "descripcion": "nuez moscada",
+        "clasificacion": "especias",
+        "existencia": 25,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 60,
+        "precio": 22.8,
+        "descripcion": "cerveza",
+        "clasificacion": "bebida alcohólica",
+        "existencia": 45,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 61,
+        "precio": 16.4,
+        "descripcion": "harina de trigo",
+        "clasificacion": "harina",
+        "existencia": 60,
+        "min": 30,
+        "max": 100
+    },
+    {
+        "id": 62,
+        "precio": 27.2,
+        "descripcion": "aceite de coco",
+        "clasificacion": "aceites",
+        "existencia": 20,
+        "min": 10,
+        "max": 40
+    },
+    {
+        "id": 63,
+        "precio": 19.9,
+        "descripcion": "vinagre balsámico",
+        "clasificacion": "vinagres",
+        "existencia": 30,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 64,
+        "precio": 24.7,
+        "descripcion": "frijoles negros enlatados",
+        "clasificacion": "conservas",
+        "existencia": 35,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 65,
+        "precio": 18.5,
+        "descripcion": "yogur de vainilla",
+        "clasificacion": "lácteos",
+        "existencia": 40,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 66,
+        "precio": 29.5,
+        "descripcion": "sardinas enlatadas",
+        "clasificacion": "conservas",
+        "existencia": 20,
+        "min": 10,
+        "max": 40
+    },
+    {
+        "id": 67,
+        "precio": 15.8,
+        "descripcion": "maíz enlatado",
+        "clasificacion": "conservas",
+        "existencia": 35,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 68,
+        "precio": 23.1,
+        "descripcion": "cereal de maíz",
+        "clasificacion": "cereales",
+        "existencia": 45,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 69,
+        "precio": 20.6,
+        "descripcion": "leche de almendras",
+        "clasificacion": "lácteos alternativos",
+        "existencia": 30,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 70,
+        "precio": 26.8,
+        "descripcion": "salsa de soja",
+        "clasificacion": "salsas",
+        "existencia": 25,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 71,
+        "precio": 17.2,
+        "descripcion": "almendras",
+        "clasificacion": "frutos secos",
+        "existencia": 40,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 72,
+        "precio": 24.9,
+        "descripcion": "aceite de girasol",
+        "clasificacion": "aceites",
+        "existencia": 30,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 73,
+        "precio": 19.3,
+        "descripcion": "té verde",
+        "clasificacion": "té",
+        "existencia": 50,
+        "min": 30,
+        "max": 80
+    },
+    {
+        "id": 74,
+        "precio": 22.7,
+        "descripcion": "pasta de tomate",
+        "clasificacion": "salsas",
+        "existencia": 25,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 75,
+        "precio": 28.4,
+        "descripcion": "vino tinto",
+        "clasificacion": "vino",
+        "existencia": 20,
+        "min": 10,
+        "max": 40
+    },
+    {
+        "id": 76,
+        "precio": 16.6,
+        "descripcion": "pasta de cacahuate",
+        "clasificacion": "frutos secos",
+        "existencia": 35,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 77,
+        "precio": 25.3,
+        "descripcion": "aceite de canola",
+        "clasificacion": "aceites",
+        "existencia": 30,
+        "min": 10,
+        "max": 50
+    },
+    {
+        "id": 78,
+        "precio": 18.9,
+        "descripcion": "champú para mascotas",
+        "clasificacion": "mascotas",
+        "existencia": 15,
+        "min": 5,
+        "max": 30
+    },
+    {
+        "id": 79,
+        "precio": 21.7,
+        "descripcion": "cereal de arroz",
+        "clasificacion": "cereales",
+        "existencia": 40,
+        "min": 20,
+        "max": 80
+    },
+    {
+        "id": 80,
+        "precio": 27.9,
+        "descripcion": "aceitunas rellenas",
+        "clasificacion": "aceitunas",
+        "existencia": 25,
+        "min": 10,
+        "max": 50
+    }
+]
+
+
